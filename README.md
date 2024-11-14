@@ -11,7 +11,7 @@ A simple, responsive weather application built using HTML, CSS, and JavaScript. 
 - CSS: Styling and layout
 - JavaScript: Functionality and API integration
 ## Functionality
-# API Integration
+## API Integration
 - The app integrates with a weather API to fetch real-time weather information. This allows users to see updated weather conditions for any entered city.
 
 ## Axios for API Requests
